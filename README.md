@@ -5,7 +5,7 @@
 
 - 👨‍🎓 I'm pursuing my Masters in **Software Engineering Systems**
 
-- 🌱 I’m currently learning **Cloud Technologies, Distributed Systems, DevOps Practices**
+- 🌱 I’m currently learning **Cloud Technologies, DevOps, Distributed Systems**
 
 - 👯 I’m looking to collaborate on **Interesting projects to build scalable systems**
 
