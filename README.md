@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Interesting projects to build scalable systems**
 
-- 👨‍💻 All of my projects are available at [https://aashish-chaple.vercel.app/](https://aashish-chaple.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://aashish-chaple.vercel.app/](https://aashishrc.com/)
 
 - 📫 How to reach me **chaple.a@northeastern.edu**
 
